@@ -1,9 +1,15 @@
 # Regex Tutorial
 
-## Summary
-
  In this markdown file you will have a extensive tutorial on regex and applying it your code. Include a code snippet of the regex. Replace this text with your summary. The topics that will be covered will be Regex Components, Anchors, Quantifiers, Grouping Constructs, Bracket Expressions, Character Classes, The OR Operator, Flags and Character Escapes. The goal of this Regex Tutorial is to be informative on Regex and be used as a reference for later usage.
 
+## Summary
+Regex is a method of text which lets you search for patterns to verify data input.
+```
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+```
+
+* This is a regular expression to match a URL
+  
 ## Table of Contents
 
 - [Regex Tutorial](#regex-tutorial)
