@@ -46,4 +46,8 @@ Regex is a method of text which lets you search for patterns to verify data inpu
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+* This Regex tutorial was created by Brent Graves. 
+
+* Github Username:grave019
+  
+* [Brent Graves Github Profile](https://github.com/grave019)
