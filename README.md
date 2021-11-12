@@ -1,6 +1,6 @@
 # Regex Tutorial URL Validation
 
- Regex, or Regular Expression Syntax, is a useful tool for any web developer. Regular Expressions define a search pattern and are very useful for form input validation, web scraping, and filtering information. Creating a Gist allows the user to save code snippets or functions and recall or share them with others. This is a important tool to web development. It is important to remember when we discuss a string that we remember:
+ Regex, or Regular Expression Syntax, is a useful tool for any web developer. Regular Expressions define a search pattern and are very useful for form input validation, web scraping, and filtering information. Creating a Gist allows the user to save code snippets or functions and recall or share them with others. This is a important tool to web development.
 
 ### Gist Link
 
